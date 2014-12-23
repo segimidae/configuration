@@ -1,4 +1,9 @@
-configuration
-=============
+SeGi MiDae - Production server configuration
+============================================
 
-Configuration for segimidae production server.
+Requirement
+
+- .htaccess
+- .conf
+- .virtual
+- commandline [Ubuntu/CentOS]
