@@ -7,3 +7,5 @@ Requirement
 - .conf
 - .virtual
 - commandline [Ubuntu/CentOS]
+- 
+[Read more words!](docs/more_words.md)
